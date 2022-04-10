@@ -3,6 +3,24 @@
   text-align: center;
 }
 
+.circle-green {
+  stroke: none;
+  fill: #21d521;
+  fill-opacity: 0.4;
+}
+
+.circle-red {
+  stroke: none;
+  fill: red;
+  fill-opacity: 0.4;
+}
+
+.circle-blue {
+  stroke: none;
+  fill: blue;
+  fill-opacity: 0.4;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
